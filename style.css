@@ -1,0 +1,24 @@
+.timer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  margin-top: 200px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+  color: darkorange;
+}
+
+.value {
+  font-size: 40px;
+  color: blue;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
